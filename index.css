@@ -1,0 +1,31 @@
+h2{
+	font-family: "Courier New", monospace;
+}
+
+h3{
+	font-family: "Courier New", monospace;
+}
+
+p{
+	font-family: "Courier New", monospace;
+}
+
+/* #gallery {
+    background: linear-gradient(#D9afd9 0%, #97d9E1);
+}
+
+#tools {
+    background: linear-gradient(62deg, #8EC5FC 0%, #e0c3fc);
+}
+
+#contactUs {
+    background: radial-gradient(circle, rgb(238,174,202) 0%, rgb(148,187,233)100%);
+} */
+
+nav, footer {
+    background-color: #1e5631;
+}
+
+#gallery, #tools, #contactUs {
+    background-color: #acd587;
+}
